@@ -1,7 +1,7 @@
 $(document).ready(() => {
     let clientscount=0;
     const peer=new Peer({
-        key: 'c3afd194-1f93-4433-9d77-ecc566ea985c',
+        key: '347195cf-26f8-4ed1-8090-6d21fe02d108',
         degug:3
     });
     peer.on('open',()=>{
